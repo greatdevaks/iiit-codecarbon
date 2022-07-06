@@ -10,6 +10,9 @@ Hybrid Cloud Architect, Google</br>
 **Deck:**</br>
 [Towards Green AI: Tracking and Curtailing Carbon Footprint of AI Python Code with CodeCarbon](./TrackingAndCurtailingCarbonFootprintOfAIPythonCodeWithCodeCarbon_AnmolKrishanSachdeva_IIITKottayam2022.pdf)
 
+**Sample Implementation:**</br>
+[mnist_flush.py](./mnist_flush.py)
+
 
 **References:**
 - [Recalibrating global data center energy-use estimates](https://www.science.org/doi/10.1126/science.aba3758)
