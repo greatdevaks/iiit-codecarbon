@@ -12,7 +12,13 @@ Hybrid Cloud Architect, Google</br>
 
 **Sample Implementation:**</br>
 [mnist_flush.py](./mnist_flush.py)</br>
-**Note:** Installation requirements can be found in [requirements.txt](./requirements.txt)
+**Note:**
+- Installation requirements can be found in [requirements.txt](./requirements.txt)
+- Use the following command for installing the requirements:
+```
+pip install -r requirements.txt
+```
+
 
 
 **References:**
