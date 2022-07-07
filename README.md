@@ -11,7 +11,8 @@ Hybrid Cloud Architect, Google</br>
 [Towards Green AI: Tracking and Curtailing Carbon Footprint of AI Python Code with CodeCarbon](./TrackingAndCurtailingCarbonFootprintOfAIPythonCodeWithCodeCarbon_AnmolKrishanSachdeva_IIITKottayam2022.pdf)
 
 **Sample Implementation:**</br>
-[mnist_flush.py](./mnist_flush.py)
+[mnist_flush.py](./mnist_flush.py)</br>
+**Note:** Installation requirements can be found in [requirements.txt](./requirements.txt)
 
 
 **References:**
